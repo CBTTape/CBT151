@@ -1,0 +1,13 @@
+2023-04-02 22:14:41.702024 - Initialized conversion of CBT151
+2023-04-02 22:14:41.770880 - Received CBT.V504.FILE151.PDS from FILE151.XMI 
+2023-04-02 22:14:41.773699 - Found $$$$$DOC.txt (text/plain) in CBT.V504.FILE151.PDS, moved to PDS/$$$$$DOC
+2023-04-02 22:14:41.774974 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE151.PDS, moved to PDS/$$$#DATE
+2023-04-02 22:14:41.776050 - Found @FILE151.txt (text/plain) in CBT.V504.FILE151.PDS, moved to PDS/@FILE151
+2023-04-02 22:14:41.777102 - Found INFOCAT.txt (text/plain) in CBT.V504.FILE151.PDS, moved to PDS/INFOCAT
+2023-04-02 22:14:41.778157 - Found INFOJCL.jcl (text/plain) in CBT.V504.FILE151.PDS, moved to PDS/INFOJCL
+2023-04-02 22:14:41.779131 - Found INFOPLI.jcl (text/plain) in CBT.V504.FILE151.PDS, moved to PDS/INFOPLI
+2023-04-02 22:14:41.780325 - Found INFSSASM.jcl (text/plain) in CBT.V504.FILE151.PDS, moved to PDS/INFSSASM
+2023-04-02 22:14:41.781391 - Found INFSS00.txt (text/plain) in CBT.V504.FILE151.PDS, moved to PDS/INFSS00
+2023-04-02 22:14:41.782317 - Found INFSS11.txt (text/plain) in CBT.V504.FILE151.PDS, moved to PDS/INFSS11
+2023-04-02 22:14:41.783336 - Found ISR@PRIM.txt (text/plain) in CBT.V504.FILE151.PDS, moved to PDS/ISR@PRIM
+2023-04-02 22:14:41.784417 - Found MURPHY.txt (text/plain) in CBT.V504.FILE151.PDS, moved to PDS/MURPHY
